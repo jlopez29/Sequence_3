@@ -18,8 +18,8 @@
 ## Screenshots
 
 ![Game board](https://i.imgur.com/UA2QnZ5.png)
-![Change letter](https://i.imgur.com/h1gFjN6.png)
-![Delete letter](https://i.imgur.com/SyLq0pz.png)
+![Board in play](https://i.imgur.com/h1gFjN6.png)
+![Game Over](https://i.imgur.com/wRtdeLI.png)
 ##
 ## Gameplay Video
 <a href="https://www.youtube.com/watch?v=_grCabDhNJE
