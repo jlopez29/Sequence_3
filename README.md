@@ -2,15 +2,15 @@
 ###
 ![UCF Sub Banner](http://www.ucf.edu/brand/files/2016/07/UCF-Tab-Signature-lockup_horizontal-KG-7406-300x72.png)
 ##
-# Sequence_3 - Flash Game ![App Icon](https://i.imgur.com/Pxdqf2a.png)
+# Sequence_3 - Flash Game ![App Icon](https://i.imgur.com/eqMBfm5.png)
 
 <img src="https://i.imgur.com/8OwpWFM.jpg" alt="Android Banner" style="width: px;"/>
 
 ## Instructions
-- Tap on a letter to change the current word to another valid word
-- Tap on a arrow to add a letter to the current word to create another valid word
-- Tap and hold on a letter to delete the letter to create another valid word
-- You have 30 seconds to think of another change before time runs out and the game is over
+- Tap on a column to drop a tile
+- Create a sequence of 3 numbers in either vertical, horizontal, or diagonal directions
+- The game is over when the board is full
+- Playable at https://jlopez29.github.io/sequence.html
 ##
 ### Developed by Jesse Lopez
 * Programmed in ActionScript 3.0 using Flash CS3
